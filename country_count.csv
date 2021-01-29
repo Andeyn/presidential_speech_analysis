@@ -1,0 +1,223 @@
+﻿,StateAbb,CCode,StateNme,Names,SpeechCount
+0,USA,2,United States of America,"United States,united states,USA,US,united states of america,United States of America",932
+1,TAW,713,Taiwan,"Taiwan,taiwan,taipei,china taiwan,taiwan province of china,formosa,chinataiwanformosa,chinese taipei",522
+2,EGY,651,Egypt,"Egypt,egypt,uar,egypt/uar,egypt uar,united arab republic,egypt arab rep",461
+3,MYA,775,Myanmar,"Myanmar,myanmar,burma,bur,myanmar burma,burma myanmar,burma/myanmar,myanmar/burma,myanmar exburma",330
+4,EUO,1004,Europe,europe,247
+5,ASA,1003,Asia,"oriental, asia",246
+6,NMA,1001,North America,north america,244
+7,FSM,987,Federated States of Micronesia,Federated States of Micronesia,241
+8,PAL,986,Palau,"Palau,palau",240
+9,NAU,970,Nauru,"Nauru,nauru",238
+10,FIJ,950,Fiji,"Fiji,fiji",236
+11,TUV,947,Tuvalu,"Tuvalu,tuvalu",235
+12,KIR,946,Kiribati,"Kiribati,kiribati,gilbert islands",234
+13,VAN,935,Vanuatu,"Vanuatu,vanuatu,new hebrides",232
+14,PNG,910,Papua New Guinea,"Papua New Guinea,papua new guinea,papua ng,pap new guinea,p new guinea,new guinea,papua and new guinea,papua n g,papua new guin,new_guinea,new_guin",230
+15,RVN,817,Republic of Vietnam,"Republic of Vietnam,republic of vietnam,south vietnam,vietnam republic of,south vietnam,republic of south vietnam",222
+16,MAD,781,Maldives,"Maldives,maldives,maldive islands",216
+17,SRI,780,Sri Lanka,"Sri Lanka,sri lanka,ceylon,sri lanka ceylon,sri_lka,sri lanka exceilan",215
+18,BHU,760,Bhutan,"Bhutan,bhutan",211
+19,MON,712,Mongolia,"Mongolia,mongolia,mongola",203
+20,KZK,705,Kazakhstan,"Kazakhstan,kazakhstan,kazakstan",201
+21,UZB,704,Uzbekistan,"Uzbekistan,uzbekistan",200
+22,KYR,703,Kyrgyzstan,Kyrgyzstan,199
+23,TAJ,702,Tajikistan,"Tajikistan,tajikistan,tadzhikistan",198
+24,TKM,701,Turkmenistan,"Turkmenistan,turkmenistan,turkmenia,turkmenist",197
+25,AFG,700,Afghanistan,"Afghanistan,afghanistan,afghan,afganistan",196
+26,YPR,680,Yemen People's Republic,"Yemen People's Republic,yemen people's republic,democratic yemen former,yemen aden,south yemen,sourn yemen,yemen people's republic of,yemen p r,yemen pr,yemen_s,democratic yemen,yemen south,yemen south,yemen s",190
+27,YAR,678,Yemen Arab Republic,"Yemen Arab Republic,yemen arab republic,yemen arab republic former,yemen sanaa,north yemen,arab republic of yemen,yemen ar,yemen a r,yemen_n,yemen north,yemen north,yemen n",188
+28,CHN,710,China,"China,china,china mainland",182
+29,IRQ,645,Iraq,"Iraq,iraq",173
+30,ALG,615,Algeria,"Algeria,algeria",171
+31,RUS,365,Russia,"Russia,russia,ussr,russian federation,sun,russia/soviet union,union of soviet socialist republics former,union of soviet socialist republics,russia russian federation,union of soviet socialist republics ussr",168
+32,SEY,591,Seychelles,"Seychelles,seychelles,seychel",168
+33,MAS,590,Mauritius,"Mauritius,mauritius,mritius",167
+34,COM,581,Comoros,"Comoros,comoros",166
+35,MAG,580,Madagascar,"Madagascar,madagascar,malagasy,malagasy republic,madagas",165
+36,OMA,698,Oman,"Oman,oman",165
+37,SWA,572,Swaziland,"Swaziland,swaziland",164
+38,LES,570,Lesotho,"Lesotho,lesotho",162
+39,NAM,565,Namibia,"Namibia,namibia",161
+40,ZAM,551,Zambia,"Zambia,zambia",157
+41,MZM,541,Mozambique,"Mozambique,mozambique,mozambq",156
+42,ANG,540,Angola,"Angola,angola",155
+43,ERI,531,Eritrea,"Eritrea,eritrea",154
+44,DJI,522,Djibouti,"Djibouti,djibouti",151
+45,ZAN,511,Zanzibar,"Zanzibar,zanzibar",147
+46,DRC,490,Democratic Republic of the Congo,"Democratic Republic of the Congo,democratic republic of congo,dem rep congo,congo dem r,zaire congo kinshasa,congo dr zaire,congo dem rep,zaire/dem rep of congo,congo droc,congo kinshasa,zaire,zaire democratic republic of congo,congo democratic republic of,congo democratic rep of",143
+47,GAB,481,Gabon,"Gabon,gabon",139
+48,CAO,471,Cameroon,"Cameroon,cameroon,cameroun",137
+49,TOG,461,Togo,"Togo,togo",136
+50,MLI,432,Mali,"Mali,mali",133
+51,CDI,437,Ivory Coast,Ivory Coast,130
+52,MAA,435,Mauritania,"Mauritania,mauritania,mauritn",128
+53,BEN,434,Benin,"Benin,benin,dahomey,benin/dahomey,benin dahomey",127
+54,GAM,420,Gambia,"Gambia,gambia",124
+55,EQG,411,Equatorial Guinea,"Equatorial Guinea,equatorial guinea,eq_gnea,guinea equatorial",123
+56,GNB,404,Guinea-Bissau,"Guinea-Bissau,guineabissau,guinea bissau,g bissau,g_bissau,g_bisau",122
+57,STP,403,Sao Tome and Principe,"Sao Tome and Principe,sao tome and principe,sao tome principe,sao tomeprincipe,sao tome and prin,sao tome prin",121
+58,CAP,402,Cape Verde,"Cape Verde,cape verde",120
+59,AZE,373,Azerbaijan,"Azerbaijan,azerbaijan",112
+60,BLR,370,Belarus,"Belarus,belarus,byelorussia,belarus byelorussia",109
+61,LIT,368,Lithuania,"Lithuania,lithuania",106
+62,KOR,730,Korea,Korea,105
+63,LAT,367,Latvia,"Latvia,latvia",104
+64,EST,366,Estonia,"Estonia,estonia",102
+65,MLD,359,Moldova,"Moldova,moldova,moldavia,moldova moldavia,republic of moldova,moldova republic of",99
+66,BUL,355,Bulgaria,"Bulgaria,bulgaria",98
+67,IRN,630,Iran,"Iran,iran,persia,iran persia,iran islamic republic of,iran islamic republic of,iran islamic rep",95
+68,SLV,349,Slovenia,"Slovenia,slovenia",94
+69,BOS,346,Bosnia and Herzegovina,"Bosnia and Herzegovina,bosnia and herzegovina,bosnia herzegovina,bosnia/herzogovina,bosnia,bosnia/herzegovina,bosnia and hercegovina,bosnia hercegovina,bosnia/hercogovina,bosnia hercegovina,bosnia/hercegovina,bosniahercegovina,bosniaherzegovina,bosniaherzegov,bosniahercegov,bosnia herzegov,bosnia hercegov,bosniaher",92
+70,YUG,345,Yugoslavia,"Yugoslavia,yugoslavia,yugoslavia/serbia,serbia,serbia and montenegro,yugoslavia former socialist federal republic,yugoslavia8992,yugoslav,serbia montenegro,socialist federal republic of yugoslavia,federal republic of yugoslavia",90
+71,CRO,344,Croatia,"Croatia,croatia",89
+72,MAC,343,Macedonia,"Macedonia,macedonia,former yugoslav republic of macedonia,macedonia fyr,macedonia tfyr",88
+73,SYR,652,Syria,"Syria,syria,syrian arab republic",88
+74,MNG,341,Montenegro,"Montenegro,montenegro",87
+75,ALB,339,Albania,"Albania,albania",85
+76,MLT,338,Malta,"Malta,malta",84
+77,TUS,337,Tuscany,"Tuscany,tuscany",83
+78,PMA,335,Parma,"Parma,parma",82
+79,IND,750,India,"India,india",82
+80,MOD,332,Modena,"Modena,modena",81
+81,SNM,331,San Marino,"San Marino,san marino",80
+82,MEX,70,Mexico,"Mexico,mexico",79
+83,SIC,329,Two Sicilies,"Two Sicilies,two sicilies",79
+84,PAP,327,Papal States,Papal States,78
+85,SLO,317,Slovakia,Slovakia,76
+86,ISR,666,Israel,"Israel,israel,israel 1989",74
+87,CZE,315,Czechoslovakia,"Czechoslovakia,czechoslovakia,czechoslovakia former,czecho",73
+88,HUN,310,Hungary,"Hungary,hungary",72
+89,AUS,305,Austria,"Austria,austria",70
+90,AUH,300,Austria-Hungary,"Austria-Hungary,austriahungary",69
+91,MEC,280,Mecklenburg Schwerin,"Mecklenburg Schwerin,meckelnburg schwerin",66
+92,HSG,275,Hesse Grand Ducal,"Hesse Grand Ducal,hesse grand ducal",65
+93,HSE,273,Hesse Electoral,"Hesse Electoral,hesse electoral",64
+94,WRT,271,Wuerttemburg,"Wuerttemburg,wuerttemburg",63
+95,SAX,269,Saxony,"Saxony,saxony",62
+96,JPN,740,Japan,"Japan,japan",62
+97,BAD,267,Baden,"Baden,baden",61
+98,GDR,265,German Democratic Republic,"German Democratic Republic,german democratic republic,east germany,german democratic rep,german democratic republic former,germany dr,german_e",60
+99,GFR,260,German Federal Republic,German Federal Republic,59
+100,BAV,245,Bavaria,"Bavaria,bavaria",56
+101,HAN,240,Hanover,"Hanover,hanover",55
+102,POR,235,Portugal,"Portugal,portugal",54
+103,AND,232,Andorra,"Andorra,andorra",53
+104,PRK,731,North Korea,"North Korea,north korea,korea dem people's rep,democratic people's republic of korea,korea democratic people's republic of,n korea,korea_n,korea north,korea demo people's rep of",52
+105,SWZ,225,Switzerland,"Switzerland,switzerland,switzld",51
+106,PAK,770,Pakistan,"Pakistan,pakistan",51
+107,LIE,223,Liechtenstein,"Liechtenstein,liechtenstein",50
+108,GMY,255,Germany,"Germany,germany,prussia,germany/prussia,german federal republic,west germany,germany federal republic of,federal republic of germany,german",50
+109,ROK,732,South Korea,"South Korea,south korea,s korea,korea,korea republic of,korea_s,korea rep of,korea rep,korea south,republic of korea,korea south republic of,republic of korea seoul",50
+110,UKG,200,United Kingdom,"United Kingdom,united kingdom,uk,great britain,britain,ukingdom",49
+111,MNC,221,Monaco,"Monaco,monaco",49
+112,DRV,816,Vietnam,"Vietnam,vietnam,vnmn,vietnam democratic rep,viet nam,vietnam,north vietnam,democratic republic of vietnam",47
+113,CAN,20,Canada,"Canada,canada",46
+114,PHI,840,Philippines,"Philippines,philippines,phil",45
+115,NTH,210,Netherlands,"Netherlands,nerlands,holland,nethlds",41
+116,LIB,620,Libya,"Libya,libya,libyan arab jamahiriya",41
+117,CUB,40,Cuba,"Cuba,cuba",40
+118,URU,165,Uruguay,"Uruguay,uruguay",38
+119,PAR,150,Paraguay,"Paraguay,paraguay,paragua",34
+120,BOL,145,Bolivia,"Bolivia,bolivia",33
+121,FRN,220,France,"France,france",33
+122,YEM,679,Yemen,"Yemen,yemen,yemen rep",33
+123,MID,1000,Middle East,"middle east, Near East, North Africa, Subsarahan Africa, near east, north africa, subsarahan africa",31
+124,ECU,130,Ecuador,"Ecuador,ecuador",30
+125,GRG,372,Georgia,"Georgia,georgia",30
+126,SUR,115,Suriname,"Suriname,suriname,surinam",29
+127,GUY,110,Guyana,"Guyana,guyana",28
+128,SOM,520,Somalia,"Somalia,somalia",28
+129,UKR,369,Ukraine,"Ukraine,ukraine",25
+130,SAU,670,Saudi Arabia,"Saudi Arabia,saudi arabia,sd_arab,arabia saudi",25
+131,VEN,101,Venezuela,"Venezuela,venezuela,venez,venezuela rb",24
+132,JOR,663,Jordan,"Jordan,jordan,jordon",21
+133,TUR,640,Turkey,"Turkey,turkey,ottoman empire,turkey/ottoman empire",20
+134,BLZ,80,Belize,"Belize,belize",19
+135,COL,100,Colombia,"Colombia,colombia",19
+136,BRA,140,Brazil,"Brazil,brazil",19
+137,SUD,625,Sudan,"Sudan,sudan",18
+138,SMA,1002,South America,"south america, latin america, Latin America",18
+139,SKN,60,St. Kitts and Nevis,St. Kitts and Nevis,17
+140,AAB,58,Antigua & Barbuda,Antigua & Barbuda,16
+141,PAN,95,Panama,"Panama,panama",16
+142,TUN,616,Tunisia,"Tunisia,tunisia",16
+143,SVG,57,St. Vincent and the Grenadines,St. Vincent and the Grenadines,15
+144,SAF,560,South Africa,"South Africa,south africa,s_africa,s africa",15
+145,INS,850,Indonesia,"Indonesia,indonesia,indones",15
+146,HAI,41,Haiti,"Haiti,haiti",14
+147,SLU,56,St. Lucia,St. Lucia,14
+148,SAL,92,El Salvador,"El Salvador,el salvador,salvador,salvadr",14
+149,CHA,483,Chad,"Chad,chad",14
+150,GRN,55,Grenada,"Grenada,grenada,grenada is",13
+151,ITA,325,Italy,"Italy,italy,italy/sardinia",13
+152,NIR,436,Niger,"Niger,niger",13
+153,NIG,475,Nigeria,"Nigeria,nigeria",13
+154,SEN,433,Senegal,"Senegal,senegal",12
+155,KEN,501,Kenya,"Kenya,kenya",12
+156,LEB,660,Lebanon,"Lebanon,lebanon",12
+157,SIN,830,Singapore,"Singapore,singapore,singapr",12
+158,AUL,900,Australia,"Australia,australia,austral",12
+159,BAR,53,Barbados,"Barbados,barbados,barbado",11
+160,IRE,205,Ireland,"Ireland,ireland,eire",11
+161,UAE,696,United Arab Emirates,"United Arab Emirates,united arab emirates,unit arab em,united arab emerates,united ae,united a e,arab emirates,arab_em,uae",11
+162,TRI,52,Trinidad and Tobago,"Trinidad and Tobago,trinidad and tobago,trinidad tob,trinidad tobago,trinidad,trin and tobago,trin tobago",10
+163,CON,484,Congo,"Congo,congo,rep of congo,congo rep of,congo brazaville,congo brazzaville,congo rep,congo brazzaville,congo brazaville,congo brazaville,congo brazzaville,congo republic of",10
+164,GUA,90,Guatemala,"Guatemala,guatemala,guatmala",9
+165,HON,91,Honduras,"Honduras,honduras,hondura",8
+166,LBR,450,Liberia,"Liberia,liberia",8
+167,BAH,692,Bahrain,"Bahrain,bahrain",8
+168,CHL,155,Chile,"Chile,chile",7
+169,SPN,230,Spain,"Spain,spain",7
+170,POL,290,Poland,"Poland,poland",7
+171,KOS,347,Kosovo,Kosovo,7
+172,GHA,452,Ghana,"Ghana,ghana",7
+173,MAL,820,Malaysia,"Malaysia,malaysia",7
+174,NIC,93,Nicaragua,"Nicaragua,nicaragua,nicaraga",6
+175,SSD,626,South Sudan,South Sudan,6
+176,QAT,694,Qatar,"Qatar,qatar",6
+177,SWD,380,Sweden,"Sweden,sweden",5
+178,GUI,438,Guinea,"Guinea,guinea",5
+179,CEN,482,Central African Republic,"Central African Republic,central african republic,c african rep,central african empire,c_africa,cen african rep",5
+180,ETH,530,Ethiopia,"Ethiopia,ethiopia,ethiopia 8993",5
+181,BEL,211,Belgium,"Belgium,belgium",4
+182,ROM,360,Romania,"Romania,romania,rumania",4
+183,NOR,385,Norway,"Norway,norway",4
+184,DEN,390,Denmark,"Denmark,denmark",4
+185,UGA,500,Uganda,"Uganda,uganda",4
+186,BOT,571,Botswana,"Botswana,botswana",4
+187,BNG,771,Bangladesh,"Bangladesh,bangladesh,bngldsh",4
+188,THI,800,Thailand,"Thailand,thailand",4
+189,CAM,811,Cambodia,"Cambodia,cambodia,kampuchea,cambodia kampuchea,cambod,democratic kampuchea",4
+190,ETM,860,East Timor,East Timor,4
+191,DOM,42,Dominican Republic,"Dominican Republic,dominican republic,dominican rep,dom_rep",3
+192,DMA,54,Dominica,"Dominica,dominica,dominica is",3
+193,GRC,350,Greece,"Greece,greece",3
+194,CYP,352,Cyprus,"Cyprus,cyprus",3
+195,MSI,983,Marshall Islands,"Marshall Islands,marshall islands,marshall is",3
+196,BHM,31,Bahamas,"Bahamas,bahamas",2
+197,JAM,51,Jamaica,"Jamaica,jamaica",2
+198,COS,94,Costa Rica,"Costa Rica,costa rica,costarica,cos_rica",2
+199,PER,135,Peru,"Peru,peru",2
+200,ARM,371,Armenia,"Armenia,armenia",2
+201,FIN,375,Finland,"Finland,finland",2
+202,BFO,439,Burkina Faso,"Burkina Faso,burkina faso,upper volta,burkina faso upper volta,Upp,hvo,burkina",2
+203,SIE,451,Sierra Leone,"Sierra Leone,sierra leone,sier_ln",2
+204,BUI,516,Burundi,"Burundi,burundi",2
+205,RWA,517,Rwanda,"Rwanda,rwanda",2
+206,ZIM,552,Zimbabwe,"Zimbabwe,zimbabwe,rhodesia,zimbabwe rhodesia",2
+207,MAW,553,Malawi,"Malawi,malawi",2
+208,MOR,600,Morocco,"Morocco,morocco",2
+209,KUW,690,Kuwait,"Kuwait,kuwait",2
+210,NEP,790,Nepal,"Nepal,nepal",2
+211,NEW,920,New Zealand,"New Zealand,new zealand,new_zeal",2
+212,SOL,940,Solomon Islands,"Solomon Islands,solomon islands,solomon is",2
+213,TON,955,Tonga,"Tonga,tonga",2
+214,ARG,160,Argentina,"Argentina,argentina,argent",1
+215,LUX,212,Luxembourg,"Luxembourg,luxembourg",1
+216,CZR,316,Czech Republic,"Czech Republic,czech republic,czechrep,czech rep,czech republic ",1
+217,ICE,395,Iceland,"Iceland,iceland",1
+218,TAZ,510,Tanzania,"Tanzania,tanzania,tanganyika,tanzania/tanganyika,united republic of tanzania,tanzania united republic of",1
+219,LAO,812,Laos,"Laos,laos,lao people's democratic republic,lao,lao pdr",1
+220,BRU,835,Brunei,"Brunei,brunei,brunei darussalam",1
+221,WSM,990,Samoa,"Samoa,western samoa,samoa",1
