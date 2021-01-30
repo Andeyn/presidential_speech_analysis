@@ -1,6 +1,6 @@
 # presidential_speech_analysis
 
-# The following code scrapes the [UCSB's Database of Presidential Speeches](https://www.presidency.ucsb.edu/documents) and aggregates them by number of mentions of each country per speech and total mentions of each country.
+## The following code scrapes the [UCSB's Database of Presidential Speeches](https://www.presidency.ucsb.edu/documents) and aggregates them by number of mentions of each country per speech and total mentions of each country.
 
 ## The code has been written Python in a Jupyter Notebook. 
 To install Jupyter Notebook, follow the [link](https://jupyter.org/install).
