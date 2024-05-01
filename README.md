@@ -1,4 +1,4 @@
-# Presidential Speech Analysis
+# Presidential Speech Webscraper and Sentiment Analysis
 ### Overview ###
 The purpose of this repository is to scrape the [UCSB's Database of Presidential Speeches](https://www.presidency.ucsb.edu/documents) to explore how geopolitical topics such as communism has changed over the years throughout diffferent wars and political shifts in accordance to the changes between Republican and Democratic presidents. 
 
