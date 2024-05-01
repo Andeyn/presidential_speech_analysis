@@ -1,12 +1,14 @@
 # presidential_speech_analysis
+### Overview ###
+The purpose of this repository is to scrape the [UCSB's Database of Presidential Speeches](https://www.presidency.ucsb.edu/documents) to explore how geopolitical topics such as communism has changed over the years throughout diffferent wars and political shifts in accordance to the changes between Republican and Democratic presidents. 
 
-## The following code scrapes the [UCSB's Database of Presidential Speeches](https://www.presidency.ucsb.edu/documents) and aggregates them by number of mentions of each country per speech and total mentions of each country.
+This code aggregates all presidential speeches, perform sentiment analysis, and analyze the speeches by number of mentions of each country per speech and total mentions of each country.
 
-## The code has been written Python in a Jupyter Notebook. 
+### Things to Note ###
+The code has been written Python in a Jupyter Notebook. 
 To install Jupyter Notebook, follow the [link](https://jupyter.org/install).
 
-
-## Table of Contents: 
+### Table of Contents ### 
 - scraping_data/scraping_all_speeches.ipynb scrapes [UCSB's Database of Presidential Speeches](https://www.presidency.ucsb.edu/documents).
 
 - scraping_data/all_presidential_speeches.csv is all the compiled speeches from each category (i.e. oral speech, farewell addresses, weekly addresses, etc.)
